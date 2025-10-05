@@ -1,42 +1,38 @@
- .div1{
-    position: relative;
-    left:35%;
-    top: 66%;
-     background: white;
-  width: 335px;
-  border-radius: 12px;
-  padding: 20px;
-  /* overflow: hidden; */
-  border-style: outset;
-  border-color: black;
-  border-width: 0px 8px 8px 0px;
-  margin-top: 77px;
-} 
-.img1{
-    border-radius: 5%;
+.col{
+    text-align: left;
+    color: white;
+    margin:12% 0 0 0;
+    width: 20%;
+    font-size: large;
 }
-.img2{
-   float: left;
-    margin: auto 10px auto auto;
+.colro{
+      border-radius: 5px 0 0 5px;
 }
-h3{
-    margin-top: 35px;
+.colre{
+     border-radius: 0 5px  5px 0;
 }
-p{
-    width: 90%;
+.sedan-card{
+    background-color: #E28525;
 }
-body{
-    background-color: #f7ca50;
+.suv-card{
+     background-color: 	#016972;
 }
-h2{
-       width: 90%;
+.luxury-card{
+     background-color:  #00403F;
 }
-h4{
-     width:20%;
+body {
+  font-family: "Lexend Deca", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 50;
+  font-style: normal;
 }
-h3{
-     width: 70%;
+.padding{
+    padding: 10% 10% 10% 10%;
 }
-.s{
-    background-color:#f7ca50;
+.container-fluid{
+    width: 20px !important;
+}
+.btn-rad{
+    border-radius: 50px;
+    margin: 20px;
 }
